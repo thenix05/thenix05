@@ -1,16 +1,19 @@
-## Hi there 👋
+## Tenzin Tsering Tünschitsang
 
-<!--
-**thenix05/thenix05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich besuche das dritte Jahr der technischen Informatikmittelschule IMS-T am GBS St. Gallen, Fachrichtung Applikationsentwicklung. Im Sommer 2027 endet der schulische Teil, danach folgt das einjährige Praxisjahr im Betrieb, das mit der IPA und dem EFZ abschliesst. Für dieses Praxisjahr suche ich einen Betrieb in der Deutschschweiz.
 
-Here are some ideas to get you started:
+**Womit ich arbeite:** C# und .NET, Java, MySQL und Datenbankmodellierung, HTML und CSS, etwas JavaScript, Linux und C aus dem Berufskundeunterricht, Git.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Eigene Projekte
+
+[waffentrag-trainer](https://github.com/thenix05/waffentrag-trainer) — Multiple-Choice-Trainer für die Prüfung Waffentragen, gebaut, weil ich sie selbst vorbereiten musste. 106 Fragen aus dem öffentlichen Katalog des fedpol, Fortschritt wird lokal im Browser gespeichert.
+
+[TextRecognitionOCR](https://github.com/thenix05/TextRecognitionOCR) — Konsolenanwendung in C#, die mit Tesseract Text aus Bildern liest und die Zuverlässigkeit der Erkennung ausgibt.
+
+### Schularbeiten
+
+Die übrigen Repositories sind Schul- und Modularbeiten aus der IMS. Die Modulnummern (M223, M293, M346, M450, ÜK294, ÜK295) sind Bezeichnungen aus der Schweizer Informatikausbildung.
+
+### Kontakt
+
+tenzin.tuenschitsang@hotmail.com
